@@ -12,5 +12,6 @@ Respository from assignments in this subject here. Currently a implementation of
 
 Open terminal session at source folder and write:
 
-```> python3 HiddenMarkov2.py
+```
+> python3 HiddenMarkov2.py
 ```
